@@ -1,0 +1,22 @@
+{
+  "name": "bb-hbs-express3-kickstarter",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/vendor"
+  ],
+  "dependencies": {
+    "sass-bootstrap": "*",
+    "jquery": "*",
+    "underscore": "*",
+    "backbone": "*",
+    "requirejs": "*",
+    "requirejs-text": "*",
+    "modernizr": "*",
+    "handlebars": "~1.3.0"
+  },
+  "devDependencies": {}
+}
